@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".assets/logo.png" alt="Hexalor Logo" width="120"/>
+  <img src="../assets/logo.png" alt="Hexalor Logo" width="120"/>
 </p>
 
 <h1 align="center">Hexalor – Code Beyond Boundaries</h1>
