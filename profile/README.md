@@ -64,7 +64,7 @@ We are engineers, designers, hackers, and builders united by a passion for clean
 
 ## 📫 Connect with Us
 
-- 🌐 Website: [hexalor.dev](https://hexalor.dev) _(coming soon)_
+- 🌐 Website: [hexalor](https://hexalor.vercel.app) _(coming soon)_
 - 🐙 GitHub: [github.com/hexalor](https://github.com/hexalor)
 - ✉️ Email: [contact@hexalor.dev](mailto:contact@hexalor.dev)
 
